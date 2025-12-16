@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP CSD18514Q5A
+D 40V, N ch NexFET MOSFET, single SON5x6, 4.9mOhm
+K
+F http://www.ti.com/lit/gpn/csd18514q5a
+$ENDCMP
+#
+$CMP DRV8304HRHAR
+D 38V Three-Phase Smart Gate Driver With Three Current Shunt Amplifiers 
+K
+F http://www.ti.com/lit/gpn/drv8304
+$ENDCMP
+#
+$CMP DRV8304SRHAR
+D Triple Half Bridge Motor Driver 40-Pin VQFN EP T/R
+K
+F https://www.ti.com/lit/gpn/DRV8304
+$ENDCMP
+#
+$CMP SM06B-SRSS-TB__LF__SN_
+D connector,multipole PCB use,SM06B-SRSS-T JST SH Series, 1mm Pitch 6 Way 1 Row Right Angle PCB Header, Solder Termination, 1A
+K
+F http://uk.rs-online.com/web/p/products/5468827
+$ENDCMP
+#
+$CMP SM04B-SRSS-TB_LFSN_
+D 4 way side entry SMT header,1mm pitch JST SH Series, 1mm Pitch 4 Way 1 Row Right Angle PCB Header, Solder Termination, 1A
+K
+F https://www.jst.co.uk/downloads/series/eSR_SZ_(21-04-14).pdf
+$ENDCMP
+#
+$CMP BM10B-SRSS-TB_LFSN_
+D 10 way top entry SMT header,1mm pitch JST SH Series, 1mm Pitch 10 Way 1 Row Straight PCB Header, Solder Termination, 1A
+K
+F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
+#End Doc Library

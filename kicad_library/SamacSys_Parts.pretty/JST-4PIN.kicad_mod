@@ -1,0 +1,216 @@
+(footprint "JST-4PIN"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SM06B-SRSS-TB")
+	(tags "Connector")
+	(property "Reference" "J**"
+		(at -1.5 2.741667 0)
+		(layer "F.SilkS")
+		(uuid "e62708d6-66e2-4770-a73a-8640aa30cc09")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "JST-4PIN"
+		(at -0.362 1.462 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5bf984a3-37f3-4159-a8cc-307a8d5ceb12")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "515cde89-d9f8-4dbe-9b98-2cd38933ea18")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f25fbdb-e325-492f-a930-20b7a5208835")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.498887 1.091886)
+		(end -4.5 1.875)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f3bed2bd-17d0-4a1d-b494-6a2c5f9e89fa")
+	)
+	(fp_line
+		(start -4.498887 1.091886)
+		(end -3.598887 1.091886)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "79ff64d1-ff83-4c14-a341-5f24549382e6")
+	)
+	(fp_line
+		(start -3.4 4)
+		(end 0 4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "81033dbe-8981-4f7b-a8f4-d66c7265e8f1")
+	)
+	(fp_line
+		(start 1.501113 1.091886)
+		(end 0.601113 1.091886)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "62597b93-d73e-491c-80c5-aa960659c7a3")
+	)
+	(fp_line
+		(start 1.501113 1.091886)
+		(end 1.5 1.875)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fe25a885-e736-4624-8fb8-9a6c72d71a9b")
+	)
+	(fp_circle
+		(center -4.506671 -0.074597)
+		(end -4.506671 -0.010647)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "a684a53f-5573-44f8-8b8a-f4f64e4e9aa1")
+	)
+	(fp_line
+		(start -4.5 4)
+		(end -4.498887 1.091886)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4447369e-e977-45f3-b0cb-746c598f7f44")
+	)
+	(fp_line
+		(start -4.498887 1.091886)
+		(end 1.501113 1.091886)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c5deb2c5-91c1-4ae9-a387-569abc88ecf6")
+	)
+	(fp_line
+		(start 1.5 4)
+		(end -4.5 4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "81f27caa-e78a-46e0-bf5f-4ee7d515a21e")
+	)
+	(fp_line
+		(start 1.501113 1.091886)
+		(end 1.5 4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a6ac1ee1-bc45-4bf6-95dc-b19ff474ca54")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -2 6.5 0)
+		(layer "F.Fab")
+		(uuid "db46b88a-eaa3-436c-a758-35f05ea4ec20")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -3 0.703092)
+		(size 0.6 1.71)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a2c7afb6-ab92-44a3-a8e3-9b186ae04c0f")
+	)
+	(pad "2" smd rect
+		(at -2 0.703092)
+		(size 0.6 1.71)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ae4fa3dd-ed77-404e-8106-37464debb183")
+	)
+	(pad "3" smd rect
+		(at -1 0.703092)
+		(size 0.6 1.71)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0bdf5870-807d-4671-ab6c-d1e64f84e55c")
+	)
+	(pad "4" smd rect
+		(at 0 0.703092)
+		(size 0.6 1.71)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b0b0e2f1-55a9-4f00-9d80-2cd4afa99732")
+	)
+	(pad "5" smd rect
+		(at 1.3 3.225)
+		(size 1.2 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9b261adf-ab0e-4d8c-b41a-f58ac74c33ed")
+	)
+	(pad "6" smd rect
+		(at -4.5 3.225)
+		(size 1.2 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0bed0b26-728c-4d26-bf5a-50cac7384d35")
+	)
+	(embedded_fonts no)
+	(model "C:\\Users\\logan\\OneDrive\\Documents\\ee\\kicad_library\\SamacSys_Parts.3dshapes\\SM06B-SRSS-TB__LF__SN_.stp"
+		(offset
+			(xyz 90.579999 31.7 -25.559999)
+		)
+		(scale
+			(xyz 0.8 1 0.8)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
