@@ -1,4 +1,4 @@
-26774390293516547
+26776156325589369
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106364,6 +106364,13 @@ Varistor VF
 0
 2
 2
+kicad_library
+6.6x6.6 cap
+
+
+0
+0
+0
 kicad_library
 BM10B-SRSS-TB
 BM10B-SRSS-TB
