@@ -11,6 +11,20 @@
 
 <hr>
 
+<!-- TABLE OF CONTENTS -->
+<details open>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#description">Project Description</a></li>
+    <li><a href="#files">File Structure</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+## Description
+
 This repository contains all of the KiCad files to my BLDC motor controller project, it is based on the example schematic from the 
 [datasheet](https://www.ti.com/lit/ds/symlink/drv8304.pdf?ts=1788095971336&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FDRV8304%253FkeyMatch%253DDRV8304HRHAR%2526tisearch%253Duniversal_search%2526usecase%253DOPN-ALT).
 
@@ -24,17 +38,6 @@ This repository contains all of the KiCad files to my BLDC motor controller proj
 It was tested and was able to spin a 6s motor with the Arduino [SimpleFOC](https://docs.simplefoc.com/) Library.
 
 Read more [here](https://loganfick.com/projects/bldc-results/) on my website!
-
-<!-- TABLE OF CONTENTS -->
-<details open>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#files">File Structure</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
 
 
 <!-- CONTACT -->
