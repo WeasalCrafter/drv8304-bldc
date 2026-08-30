@@ -2,15 +2,14 @@
     <img src="img/render.png" alt="PCB Render in KiCad 10.0" height="300">
     <br>
     <h3>TI DRV8304 BLDC Motor Controller PCB</h3>
-
-    
+    <p>
     A 6S motor controller based on the TI-DRV8304 Gate Driver IC for SimpleFOC.
-    
-    
+    </p>
     <br>
-
     <a href="https://www.loganfick.com/projects/bldc-results">See my post on my Website</a>
 </div>
+
+<hr>
 
 This repository contains all of the KiCad files to my BLDC motor controller project, it is based on the example schematic from the 
 [datasheet](https://www.ti.com/lit/ds/symlink/drv8304.pdf?ts=1788095971336&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FDRV8304%253FkeyMatch%253DDRV8304HRHAR%2526tisearch%253Duniversal_search%2526usecase%253DOPN-ALT).
