@@ -10,13 +10,6 @@
     <br>
 
     <a href="https://www.loganfick.com/projects/bldc-results">See my post on my Website</a>
-    
-    <!--
-    &middot;
-    <a href="#">Project video on Youtube</a>
-    -->
-  </p>
-
 </div>
 
 This repository contains all of the KiCad files to my BLDC motor controller project, it is based on the example schematic from the 
