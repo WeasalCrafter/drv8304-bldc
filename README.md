@@ -3,9 +3,9 @@
     <br>
     <h3>TI DRV8304 BLDC Motor Controller PCB</h3>
 
-    <p>
+    
     A 6S motor controller based on the TI-DRV8304 Gate Driver IC for SimpleFOC.
-    </p>
+    
     
     <br>
 
