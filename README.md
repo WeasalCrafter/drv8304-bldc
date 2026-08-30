@@ -1,6 +1,6 @@
 # TI DRV8304 BLDC Motor Controller PCB
 
-<img src="img/render.png" alt="Board Render in KiCad 10.0" style="max-height=100px;">
+<img src="img/render.png" alt="Board Render in KiCad 10.0" height="100">
 
 This repository contains all of the KiCad files to my BLDC motor controller project, it is based on the example schematic from the datasheet.
 
