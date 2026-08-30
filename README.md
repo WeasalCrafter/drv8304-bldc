@@ -26,7 +26,7 @@ It was tested and was able to spin a 6s motor with the Arduino [SimpleFOC](https
 Read more [here](https://loganfick.com/projects/bldc-results/) on my website!
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details open>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#files">File Structure</a></li>
